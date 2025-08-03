@@ -9,7 +9,7 @@ Shubham Prasar
 ## Version
 V1
 
-#Pre-Requisite
+Pre-Requisites
 To run this script first you have to run this command so that we can verify whether AWS CLI is installed or not AWS.
 aws config(command)
 it will ask for access key and secret access key(Both you will get it from MY_Profile--> Security_Credential)
